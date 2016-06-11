@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="183px" viewBox="0 0 180 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="114" height="118" rx="2.88288288"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="116" height="120">
+            <rect x="-1" y="-1" width="116" height="120" fill="white"></rect>
+            <use xlink:href="#path-2" fill="black"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="58" height="58" rx="29"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="直播推流-SDK" transform="translate(-104.000000, -825.000000)">
+            <g id="Group-11" transform="translate(0.000000, 618.000000)">
+                <g id="Group-2" filter="url(#filter-1)" transform="translate(125.000000, 222.000000)">
+                    <g id="QR">
+                        <g id="Rectangle-16">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <use stroke="#D9DCDF" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-2"></use>
+                        </g>
+                        <text id="视频、音频" font-family=".PingFangSC-Regular, .PingFang SC" font-size="12" font-weight="normal" letter-spacing="0.846666634" fill="#878787">
+                            <tspan x="27.4827586" y="28.8622449">视频、音频</tspan>
+                        </text>
+                    </g>
+                    <path d="M38.64,65.76 L38.64,85.2 C38.64,85.79616 38.15616,86.28 37.56,86.28 C36.96384,86.28 36.48,85.79616 36.48,85.2 L36.48,65.76 C36.48,65.16384 36.96384,64.68 37.56,64.68 C38.15616,64.68 38.64,65.16384 38.64,65.76 L38.64,65.76 Z M44.04,54.96 C43.44384,54.96 42.96,55.44384 42.96,56.04 L42.96,94.92 C42.96,95.51616 43.44384,96 44.04,96 C44.63616,96 45.12,95.51616 45.12,94.92 L45.12,56.04 C45.12,55.44384 44.63616,54.96 44.04,54.96 L44.04,54.96 Z M50.52,65.76 C49.92384,65.76 49.44,66.24384 49.44,66.84 L49.44,84.12 C49.44,84.71616 49.92384,85.2 50.52,85.2 C51.11616,85.2 51.6,84.71616 51.6,84.12 L51.6,66.84 C51.6,66.24384 51.11616,65.76 50.52,65.76 L50.52,65.76 Z M31.08,71.16 C30.48384,71.16 30,71.64384 30,72.24 L30,78.72 C30,79.31616 30.48384,79.8 31.08,79.8 C31.67616,79.8 32.16,79.31616 32.16,78.72 L32.16,72.24 C32.16,71.64384 31.67616,71.16 31.08,71.16 L31.08,71.16 Z M57,71.16 C56.40384,71.16 55.92,71.64384 55.92,72.24 L55.92,78.72 C55.92,79.31616 56.40384,79.8 57,79.8 C57.59616,79.8 58.08,79.31616 58.08,78.72 L58.08,72.24 C58.08,71.64384 57.59616,71.16 57,71.16 L57,71.16 Z M82.92,71.16 C82.32384,71.16 81.84,71.64384 81.84,72.24 L81.84,78.72 C81.84,79.31616 82.32384,79.8 82.92,79.8 C83.51616,79.8 84,79.31616 84,78.72 L84,72.24 C84,71.64384 83.51616,71.16 82.92,71.16 L82.92,71.16 Z M76.44,64.68 C75.84384,64.68 75.36,65.16384 75.36,65.76 L75.36,85.2 C75.36,85.79616 75.84384,86.28 76.44,86.28 C77.03616,86.28 77.52,85.79616 77.52,85.2 L77.52,65.76 C77.52,65.16384 77.03616,64.68 76.44,64.68 L76.44,64.68 Z M69.96,54.96 C69.36384,54.96 68.88,55.44384 68.88,56.04 L68.88,94.92 C68.88,95.51616 69.36384,96 69.96,96 C70.55616,96 71.04,95.51616 71.04,94.92 L71.04,56.04 C71.04,55.44384 70.55616,54.96 69.96,54.96 L69.96,54.96 Z M63.48,65.76 C62.88384,65.76 62.4,66.24384 62.4,66.84 L62.4,84.12 C62.4,84.71616 62.88384,85.2 63.48,85.2 C64.07616,85.2 64.56,84.71616 64.56,84.12 L64.56,66.84 C64.56,66.24384 64.07616,65.76 63.48,65.76 L63.48,65.76 Z" id="Page-1" fill="#000000"></path>
+                    <g id="Group-10" transform="translate(81.000000, 83.000000)">
+                        <g id="Rectangle-119">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#1DC275" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="media-32px-glyph-1_video-64" transform="translate(13.000000, 19.000000)" fill="#FFFFFF">
+                            <g id="Group">
+                                <path d="M21,0 L1,0 C0.4,0 0,0.4 0,1 L0,21 C0,21.6 0.4,22 1,22 L21,22 C21.6,22 22,21.6 22,21 L22,1 C22,0.4 21.6,0 21,0 L21,0 Z" id="Shape"></path>
+                                <path d="M31.5,2.1 C31.2,1.9 30.8,1.9 30.5,2.1 L24,6 L24,16 L30.5,19.9 C30.6,20 30.8,20 31,20 C31.2,20 31.3,20 31.5,19.9 C31.8,19.7 32,19.4 32,19 L32,3 C32,2.6 31.8,2.3 31.5,2.1 L31.5,2.1 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -8,7 +8,9 @@ let logo = require('../../images/public/logo.svg');
 const menu = (
     <Menu>
         <Menu.Item key="0">
+          <Link to="/pushsdk">
             推流 SDK &nbsp;&nbsp;&nbsp;&nbsp;
+          </Link>
         </Menu.Item>
         <Menu.Item key="1">
           <Link to="/playsdk">
@@ -74,7 +76,11 @@ class Nav extends React.Component {
                   </span>
               </Dropdown>
           </div>
-          <div className={test1} onClick={this.handleClick.bind(this)} id='enterprise' >企业服务</div>
+          <div className={test1} onClick={this.handleClick.bind(this)} id='enterprise' >
+            <Link to="/enterprise">
+              企业服务
+            </Link>
+          </div>
           <div className={test2} onClick={this.handleClick.bind(this)} id='develop'>开发文档</div>
           <div className={test3} onClick={this.handleClick.bind(this)} id='problem'>常见问题</div>
           <div className="nav-cell" >

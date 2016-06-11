@@ -2,6 +2,7 @@ require('../../styles/homepage/Hpthird.less');
 
 import React from 'react';
 import { Button } from 'antd';
+import { Link } from 'react-router';
 
 let scene = '../../images/homepage/scene.svg';
 
@@ -25,7 +26,9 @@ class Hpthird extends React.Component {
               能，帮你更好更快接入优良的直播体系。
             </div>
             <div className='hp-third-inner3'>
-              <Button type="primary" className='hp-third-btn'>功能特性</Button>
+              <Link to="feature">
+                <Button type="primary" className='hp-third-btn'>功能特性</Button>
+              </Link>
             </div>
           </div>
         </div>

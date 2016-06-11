@@ -1,10 +1,10 @@
-require('../../styles/playsdk/Plsecond.less');
+require('../../styles/sdk/Plsecond.less');
 
 import React from 'react';
 
 let pl2a = "../../images/playsdk/pl2a.svg";
 let pl2b = "../../images/playsdk/pl2b.svg";
-let pl2c = "../../images/playsdk/pl2c.svg";
+let pl2c = "../../images/playsdk/ps2c.svg";
 
 
 class Plsecond extends React.Component {

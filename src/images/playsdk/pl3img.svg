@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="157px" height="179px" viewBox="0 0 157 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.93548387,25.5483871 L44,25.5483871 L78.0645161,25.5483871 L83.883871,25.5483871 C76.9290323,10.5032258 61.7419355,0 44,0 C26.2580645,0 11.0709677,10.5032258 4.11612903,25.5483871 L9.93548387,25.5483871 L9.93548387,25.5483871 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.709677419" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="13" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.709677419" y="-0.709677419" width="81.1870968" height="26.9677419">
+            <rect x="3.40645161" y="-0.709677419" width="81.1870968" height="26.9677419" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M79.0580645,28.3870968 L72.2451613,45.9870968 C72.1032258,46.4129032 71.5354839,46.8387097 70.9677419,46.8387097 L51.0967742,46.8387097 C50.5290323,46.8387097 49.9612903,46.4129032 49.8193548,45.9870968 L44,30.9419355 L38.1806452,45.9870968 C38.0387097,46.4129032 37.4709677,46.8387097 36.9032258,46.8387097 L17.0322581,46.8387097 C16.4645161,46.8387097 15.8967742,46.4129032 15.7548387,45.9870968 L8.94193548,28.3870968 L2.83870968,28.3870968 C0.993548387,33.2129032 0,38.4645161 0,44 C0,68.2709677 19.7290323,88 44,88 C68.2709677,88 88,68.2709677 88,44 C88,38.4645161 87.0064516,33.2129032 85.1612903,28.3870968 L79.0580645,28.3870968 L79.0580645,28.3870968 Z M44,75.2258065 C35.3419355,75.2258065 28.3870968,68.2709677 28.3870968,59.6129032 C28.3870968,58.7612903 28.9548387,58.1935484 29.8064516,58.1935484 C30.6580645,58.1935484 31.2258065,58.7612903 31.2258065,59.6129032 C31.2258065,66.7096774 36.9032258,72.3870968 44,72.3870968 C51.0967742,72.3870968 56.7741935,66.7096774 56.7741935,59.6129032 C56.7741935,58.7612903 57.3419355,58.1935484 58.1935484,58.1935484 C59.0451613,58.1935484 59.6129032,58.7612903 59.6129032,59.6129032 C59.6129032,68.2709677 52.6580645,75.2258065 44,75.2258065 L44,75.2258065 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.709677419" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="13" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.709677419" y="-0.709677419" width="89.4193548" height="61.0322581">
+            <rect x="-0.709677419" y="27.6774194" width="89.4193548" height="61.0322581" fill="white"></rect>
+            <use xlink:href="#path-4" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="播放器-SDK" transform="translate(-696.000000, -1347.000000)">
+            <g id="Group-16" transform="translate(696.000000, 1362.000000)">
+                <g id="transportation-24px-outline_road" transform="translate(115.500000, 151.000000) rotate(-90.000000) translate(-115.500000, -151.000000) translate(102.500000, 109.500000)" stroke="#E3E5E7">
+                    <g id="Group">
+                        <path d="M2,80.3990021 L2,0" id="Shape" stroke-width="4"></path>
+                        <path d="M24,0 L24,82.0243835" id="Shape" stroke-width="4"></path>
+                        <path d="M13,12 L13,20" id="Shape" stroke-width="8"></path>
+                        <path d="M13,36 L13,44" id="Shape" stroke-width="8"></path>
+                        <path d="M13,60 L13,68" id="Shape" stroke-width="8"></path>
+                    </g>
+                </g>
+                <g id="shopping-64px-glyph_delivery-time" transform="translate(0.000000, 109.000000)">
+                    <g id="Group">
+                        <path d="M49,32 L46,32 L46,29 C46,28.4 45.6,28 45,28 C44.4,28 44,28.4 44,29 L44,33 C44,33.6 44.4,34 45,34 L49,34 C49.6,34 50,33.6 50,33 C50,32.4 49.6,32 49,32 L49,32 Z" id="Shape" fill="#DEE0E2"></path>
+                        <path d="M61.3,34.1 L56,32.3 L56,23 C56,22.4 55.6,22 55,22 L38,22 L38,13 C38,12.4 37.6,12 37,12 L25.9,12 C25.4,5.3 19.8,0 13,0 C5.8,0 0,5.8 0,13 L0,47 C0,47.6 0.4,48 1,48 L10.1,48 C10.6,51.4 13.5,54 17,54 C20.5,54 23.4,51.4 23.9,48 L37,48 L42,48 C42,51.3 44.7,54 48,54 C51.3,54 54,51.3 54,48 L61,48 C61.6,48 62,47.6 62,47 L62,35 C62,34.6 61.7,34.2 61.3,34.1 L61.3,34.1 Z M13,2 C19.1,2 24,6.9 24,13 C24,19.1 19.1,24 13,24 C6.9,24 2,19.1 2,13 C2,6.9 6.9,2 13,2 L13,2 Z M17,52 C14.2,52 12,49.8 12,47 C12,44.2 14.2,42 17,42 C19.8,42 22,44.2 22,47 C22,49.8 19.8,52 17,52 L17,52 Z M48,52 C45.8,52 44,50.2 44,48 C44,45.8 45.8,44 48,44 C50.2,44 52,45.8 52,48 C52,50.2 50.2,52 48,52 L48,52 Z M60,46 L53.6,46 C52.8,43.7 50.6,42 48,42 C45.4,42 43.2,43.7 42.4,46 L38,46 L38,24 L54,24 L54,33 C54,33.4 54.3,33.8 54.7,33.9 L60,35.7 L60,46 L60,46 Z" id="Shape" fill="#E3E5E7"></path>
+                        <path d="M13,14 L17,14 C17.6,14 18,13.6 18,13 C18,12.4 17.6,12 17,12 L14,12 L14,9 C14,8.4 13.6,8 13,8 C12.4,8 12,8.4 12,9 L12,13 C12,13.6 12.4,14 13,14 L13,14 Z" id="Shape" fill="#E2E4E6"></path>
+                    </g>
+                </g>
+                <g id="emoticons-64px-glyph_sunglasses-49" transform="translate(41.000000, 0.000000)">
+                    <g id="Group">
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use stroke-opacity="0.24963202" stroke="#C7CED2" mask="url(#mask-3)" stroke-width="1.41935484" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <use stroke-opacity="0.24963202" stroke="#C7CED2" mask="url(#mask-6)" stroke-width="1.41935484" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

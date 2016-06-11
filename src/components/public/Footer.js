@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router';
 require('../../styles/Footer.less')
 
 
@@ -15,7 +16,11 @@ class Footer extends React.Component {
               <div>
                 <span>产品</span>
               </div>
-              <div>更新日志</div>
+              <div>
+                <Link to="/update">
+                  更新日志
+                </Link>
+              </div>
               <div>功能预览</div>
             </div>
           </div>
@@ -36,7 +41,11 @@ class Footer extends React.Component {
               </div>
               <div>WECHAT</div>
               <div>加入我们</div>
-              <div>关于七牛</div>
+              <div>
+                <Link to="/about">
+                  关于七牛
+                </Link>
+              </div>
             </div>
           </div>
           <div className='footer-map'></div>

@@ -1,4 +1,4 @@
-require('../../styles/playsdk/Plfirst.less');
+require('../../styles/sdk/Plfirst.less');
 
 import React from 'react';
 import { Button } from 'antd';

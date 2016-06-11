@@ -8,7 +8,9 @@ let logowhite = require('../../images/public/logowhite.svg');
 const menuwhite = (
   <Menu>
     <Menu.Item key="0">
-      推流 SDK &nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to="/pushsdk">
+        推流 SDK &nbsp;&nbsp;&nbsp;&nbsp;
+      </Link>
     </Menu.Item>
     <Menu.Item key="1">
       <Link to="/playsdk">
@@ -75,7 +77,11 @@ class Navwhite extends React.Component {
                   </span>
             </Dropdown>
           </div>
-          <div className={test1} onClick={this.handleClick.bind(this)} id='enterprisew' >企业服务</div>
+          <Link to="/enterprise">
+            <div className={test1} onClick={this.handleClick.bind(this)} id='enterprisew'>
+                企业服务
+            </div>
+          </Link>
           <div className={test2} onClick={this.handleClick.bind(this)} id='developw'>开发文档</div>
           <div className={test3} onClick={this.handleClick.bind(this)} id='problemw'>常见问题</div>
           <div className="nav-cell-w" >
